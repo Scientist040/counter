@@ -1,4 +1,4 @@
-# Counter 
+# Spider Counter 
 Welcome Spider counter!
 - We really appreciate you guys for coming all the way here, knowing that you must access the internet to reach us!
 - We are Counter++ Front End based app powered by LocalStorage object!
